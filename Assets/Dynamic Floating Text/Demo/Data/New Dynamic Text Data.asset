@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcff3a5a705644c4e9a3068b0236a108, type: 3}
+  m_Name: New Dynamic Text Data
+  m_EditorClassIdentifier: 
+  id: 
+  colours:
+  - {r: 1, g: 1, b: 1, a: 0}
+  - {r: 0.91974473, g: 1, b: 0, a: 0}
+  - {r: 0.55577075, g: 0.754717, b: 0.4236383, a: 0}
+  - {r: 0.6698113, g: 0.35702205, b: 0.6135232, a: 0}
+  - {r: 0.36205056, g: 0.5407571, b: 0.6792453, a: 0}
+  sizes: []
+  font: {fileID: 11400000, guid: 78afc6f41ff825544a03342ca77a63cc, type: 2}
+  bold: 1
+  italic: 1
+  underline: 1
+  strikethrough: 1
+  lifetime: 2
+  numberOfColourAlternations: 0
+  numberOfSizeAlternations: 0
+  colourAlternationDuration: 0
+  sizeAlternationDuration: 0
+  enterDuration: 1
+  exitDuration: 1
+  maxDrift: 0
+  maxHeight: 0
+  popModifier: 5
+  colourAlternationMode: 0
+  sizeAlternationMode: 0
+  enterType: 010000000300000004000000
+  exitType: 2
